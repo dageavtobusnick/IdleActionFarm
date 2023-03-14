@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be528e7db22d4af4ab28e34d4ad083a9, type: 3}
+  m_Name: Game Configs
+  m_EditorClassIdentifier: 
+  _grassDeatroyTime: 1
+  _grassGrownTime: 10
+  _grassMoveToTargetTime: 0.5
+  _timeBetweenSelling: 0.9
+  _moneyCollectedShakeTime: 2
+  _moneyMovingTime: 0.8
+  _grassCost: 15
+  _shakeStrength: 3
